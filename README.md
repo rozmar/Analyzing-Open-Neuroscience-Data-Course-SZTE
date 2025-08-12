@@ -1,0 +1,1 @@
+# Analyzing-Open-Neuroscience-Data-Course-SZTE
