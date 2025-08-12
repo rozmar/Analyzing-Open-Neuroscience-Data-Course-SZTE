@@ -5,7 +5,7 @@ This course is a patch-work of already existing sources mixed with our own ideas
 ## 2025/2026
 
 ### Tematika
-- 1-4: Bevezetés az idegtudományi adathalmazokba & Software Carpentry
+- 1-4: Bevezetés az idegtudományi adathalmazokba & Python alapozás
 - 5-7: Patch-seq, MERFISH, Allen brain atlas
 - 8-10: MICrONS
 - 11-13: Brain Computer Interface learning & all-optical circuit mapping
