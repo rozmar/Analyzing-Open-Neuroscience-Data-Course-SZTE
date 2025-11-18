@@ -5,6 +5,7 @@ This course is a patch-work of already existing sources mixed with our own ideas
 ## 2025/2026
 
 ### Tematika
-- 1-5: Bevezetés az idegtudományi adathalmazokba & Python alapozás
-- 6-9: Patch-seq, MERFISH, Allen brain atlas
-- 10-13: Brain Computer Interface learning & all-optical circuit mapping; MICRONS
+- 1-6: Bevezetés az idegtudományi adathalmazokba & Python alapozás
+- 7-9: Patch-seq, scRNAseq
+- 10-11: Brain Computer Interface learning & all-optical circuit mapping
+- 12-13: Projektek elkeszitese
