@@ -1,4 +1,4 @@
-#Brain Computer Interface dataset
+# Brain Computer Interface dataset
 
 This module shows you how to open and analyze the Brain Computer Interface Behavior. These are unpublished experiments of a new behavior, using cutting-edge technology. We can already access this dataset due to the Allen Institute's commitment to open science and transparency.
 
