@@ -6,6 +6,8 @@ This lesson was taken from the Summer Workshop for the Dynamic Brain 2025 (https
 
 Experiments: Kayvon Daie, Marton Rozsa, Christina Wang
 
+Analysis pipeline: https://github.com/AllenNeuralDynamics/aind-single-plane-ophys-pipeline
+
 NWB conversion: Arielle Leon, Ahad Bawany
 
 Notebook design: Suyee Lee, Saskia de Vries, Kayvon Daie, Marina Garrett
