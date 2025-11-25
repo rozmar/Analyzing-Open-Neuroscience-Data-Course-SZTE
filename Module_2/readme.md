@@ -8,6 +8,6 @@ Experiments: Kayvon Daie, Marton Rozsa, Christina Wang
 
 NWB conversion: Arielle Leon, Ahad Bawany
 
-Notebook design: Suyee Lee, Saskia de Vries, Kayvon Daie
+Notebook design: Suyee Lee, Saskia de Vries, Kayvon Daie, Marina Garrett
 
 And many others!
